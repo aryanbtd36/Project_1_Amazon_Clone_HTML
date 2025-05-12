@@ -19,9 +19,9 @@ This is my **first project**, a simple **Amazon website clone** built using only
 > ⚠️ **Note:** This is not a fully functional website. It is a visual/static clone intended for learning purposes only.
 
 ## 📸 Screenshots
-![Screenshot 2025-05-12 203818](https://github.com/user-attachments/assets/3cab3d42-b1a0-45e3-8417-31b0741b2836)
-![Screenshot 2025-05-12 203801](https://github.com/user-attachments/assets/16953a6a-8899-4cd4-bfdc-362c56373927)
- ![Screenshot 2025-05-12 203850](https://github.com/user-attachments/assets/6d953a41-decd-4b42-8ed6-425c13d7890a)
+![Screenshot 2025-05-12 210506](https://github.com/user-attachments/assets/875ea55f-8a5c-4466-ac70-574c0e01892a)
+![Screenshot 2025-05-12 210542](https://github.com/user-attachments/assets/c117e07e-16d4-4f1d-8613-0e74afb6dfec)
+![Screenshot 2025-05-12 210557](https://github.com/user-attachments/assets/5813b411-dbf9-4e6f-9f8b-12eb94cf4b88)
 
 
 ## 📁 Folder Structure
