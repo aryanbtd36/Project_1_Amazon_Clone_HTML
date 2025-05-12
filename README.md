@@ -31,7 +31,7 @@ This is my **first project**, a simple **Amazon website clone** built using only
 To view the project locally:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/aryanbtd36/Project_1_Amazon_Clone_HTML.git
    
 2. Open `amazon_clone.html` in your web browser.
 
